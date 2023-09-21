@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Ferxxo",
+      "email": "danielala14fi@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "nombre": "Popsy",
+      "email": "dsalarcon3@soy.sena.edu.co",
+      "password": "852963"
+    }
+  ],
+  "citas": [
+    {
+      "dia": "2023-09-20",
+      "hora": "17:38",
+      "numAutorizacion": "1021396143",
+      "id": 1
+    }
+  ],
+  "medicos": [
+    {
+      "id": "1",
+      "nombre": "James",
+      "apellido": "Rodríguez",
+      "especialidad": "Medicina General"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Daniel",
+      "apellido": "Alarcón",
+      "email": "dsalarcon3@soy.sena.edu.co",
+      "password": "Thonan123"
+    },
+    {
+      "id": 2
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Coke",
+      "cantidad": 5,
+      "valor": 3500
+    }
+  ]
+}
